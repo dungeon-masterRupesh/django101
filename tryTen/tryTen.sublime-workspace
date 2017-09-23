@@ -1,0 +1,785 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"username"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"user",
+				"userProfile"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"us",
+				"userStripe"
+			],
+			[
+				"re",
+				"request_finished"
+			],
+			[
+				"s",
+				"stripe_id"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"acc",
+				"account_login"
+			],
+			[
+				"con",
+				"confirm_message"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"E",
+				"EMAIL_HOST_PASSWORD"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Q",
+				"QuestionAdmin"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"p",
+				"polls"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"qu",
+				"question_text"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"is",
+				"isPrime"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"l",
+				"libganit"
+			],
+			[
+				"ganit",
+				"ganit_src"
+			],
+			[
+				"ca",
+				"calc_utils"
+			],
+			[
+				"pos",
+				"postUrl"
+			],
+			[
+				"a",
+				"add"
+			],
+			[
+				"panel",
+				"panel4"
+			],
+			[
+				"pa",
+				"panel4"
+			],
+			[
+				"add",
+				"addActionListener"
+			],
+			[
+				"S",
+				"StringBuffer"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"intr",
+				"intres"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"text",
+				"text-orientation"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"FO",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"navb",
+				"navbar-inverse"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ta",
+				"Tangerine"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"im",
+				"img2"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"bck",
+				"background-repeat"
+			],
+			[
+				"alig",
+				"alignment-baseline"
+			],
+			[
+				"Ti",
+				"Tangerine"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"colo",
+				"flood-color"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"pow",
+				"power"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"col",
+				"colAns"
+			],
+			[
+				"ro",
+				"roAns"
+			],
+			[
+				"pri",
+				"printv"
+			],
+			[
+				"v",
+				"vector\tstd::vector"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"en",
+				"endl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/profiles/models.py",
+			"settings":
+			{
+				"buffer_size": 1460,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/profiles/admin.py",
+			"settings":
+			{
+				"buffer_size": 341,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 401.0
+	},
+	"console":
+	{
+		"height": 818.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"tidy(5)",
+			"i",
+			"i++",
+			"i",
+			"i = 5",
+			"10 + 565",
+			"tidy(5)",
+			"10",
+			"1",
+			"package install prolog",
+			"package",
+			"package install",
+			"install"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/personal/Desktop/tryTen",
+		"/home/personal/Desktop/tryTen/src",
+		"/home/personal/Desktop/tryTen/src/checkout",
+		"/home/personal/Desktop/tryTen/src/profiles",
+		"/home/personal/Desktop/tryTen/src/tryTen"
+	],
+	"file_history":
+	[
+		"/home/personal/Desktop/tryTen/src/tryTen/urls.py",
+		"/home/personal/Desktop/tryTen/src/profiles/templates/base.html",
+		"/home/personal/Desktop/tryTen/src/checkout/templates/checkout.html",
+		"/home/personal/Desktop/tryTen/src/checkout/views.py",
+		"/home/personal/Desktop/tryTen/src/tryTen/settings.py",
+		"/home/personal/Desktop/tryTen/src/profiles/templates/home.html",
+		"/home/personal/Desktop/tryTen/src/profiles/views.py",
+		"/home/personal/Desktop/tryTen/src/profiles/templates/profile.html",
+		"/home/personal/gitlab/ganit/ganit_src/factorial_g.c",
+		"/home/personal/Documents/try,py",
+		"/home/personal/Desktop/tryTen/src/profiles/templates/navbar.html",
+		"/home/personal/Desktop/tryTen/src/contact/templates/contact.html",
+		"/home/personal/Desktop/tryTen/src/allauth/templates/account/logout.html",
+		"/home/personal/Desktop/tryTen/src/allauth/templates/account/login.html",
+		"/home/personal/Desktop/tryTen/src/contact/forms.py",
+		"/home/personal/Desktop/tryTen/src/contact/views.py",
+		"/home/personal/Desktop/tryTen/src/allauth/templates/account/signup.html",
+		"/home/personal/gitlab/mysite/mysite/urls.py",
+		"/home/personal/AndroidStudioProjects/MyApplication/build.gradle",
+		"/home/personal/Desktop/tryTen/src/contact/models.py",
+		"/home/personal/Desktop/tryTen/src/contact/apps.py",
+		"/home/personal/Desktop/tryTen/src/profiles/templates/about.html",
+		"/home/personal/Desktop/tryTen/static/static/css/main.css",
+		"/home/personal/Desktop/tryTen/src/profiles/templates/junk.html",
+		"/home/personal/Desktop/tryTen/static/static/javascript/docs.min.js",
+		"/home/personal/Desktop/tryTen/static/static/javascript/bootstrap.min.js",
+		"/home/personal/Desktop/tryTen/static/static/css/theme.css",
+		"/home/personal/Desktop/tryTen/static/static/css/bootstrap-theme.min.css",
+		"/home/personal/Desktop/tryTen/static/static/css/bootstrap.min.css",
+		"/home/personal/Desktop/tryTen/src/profiles/admin.py",
+		"/home/personal/Desktop/tryTen/src/profiles/models.py",
+		"/home/personal/Desktop/tryTen/src/profiles/template/home.html",
+		"/home/personal/Desktop/tryTen/src/profiles/tests.py",
+		"/home/personal/gitlab/django-auth-pattern-master/templates/login.html",
+		"/home/personal/gitlab/django-auth-pattern-master/templates/home.html",
+		"/home/personal/gitlab/django-auth-pattern-master/templates/base.html",
+		"/home/personal/gitlab/mysite/templates/admin/base_site.html",
+		"/home/personal/gitlab/mysite/templates/registration/login.html",
+		"/home/personal/gitlab/mysite/mysite/settings.py",
+		"/home/personal/gitlab/mysite/templates/admin/index.html",
+		"/home/personal/.local/lib/python3.5/site-packages/django/contrib/admin/templates/admin/base_site.html",
+		"/home/personal/.local/lib/python3.5/site-packages/django/contrib/admin/templates/admin/index.html",
+		"/home/personal/gitlab/mysite/polls/models.py",
+		"/home/personal/gitlab/mysite/polls/admin.py",
+		"/home/personal/gitlab/mysite/polls/static/polls/style.css",
+		"/home/personal/gitlab/mysite/polls/views.py",
+		"/home/personal/gitlab/mysite/polls/templates/polls/index.html",
+		"/home/personal/gitlab/mysite/polls/tests.py",
+		"/home/personal/gitlab/mysite/polls/urls.py",
+		"/home/personal/gitlab/mysite/polls/templates/polls/detail.html",
+		"/home/personal/gitlab/mysite/polls/templates/polls/results.html",
+		"/home/personal/Desktop/resume.tex",
+		"/home/personal/Downloads/2pageresume.tex",
+		"/home/personal/Desktop/160050042_lab8/laundro_matt_output.txt",
+		"/home/personal/Desktop/160050042_lab8/laundry.cpp",
+		"/home/personal/Desktop/160050042_lab8/laundro_matt_example_output.txt",
+		"/home/personal/Desktop/160050042_lab8/out",
+		"/home/personal/Downloads/ssl/Resume.tex",
+		"/home/personal/.cache/.fr-BbJAPH/Lab7_160050022_160050042_160050071/recursive-make/mt_client/Makefile.c",
+		"/home/personal/Downloads/ssl/Lab7_160050022_160050042_160050071/Problem2python/python_doc",
+		"/home/personal/Downloads/ssl/Lab7_160050022_160050042_160050071/Problem2python/python_problem.py",
+		"/home/personal/Desktop/snake.cpp",
+		"/home/personal/Downloads/ssl/outlab_lab8/CaptainAmerica/message.npy",
+		"/home/personal/Desktop/redme",
+		"/home/personal/Desktop/idea",
+		"/home/personal/Downloads/ssl/outlab_lab8/DoctorStrange/generator.py",
+		"/home/personal/Downloads/ssl/outlab_lab8/DoctorStrange/retrieve.py",
+		"/home/personal/Desktop/randoo.cpp",
+		"/home/personal/a.py",
+		"/home/personal/copied.cpp",
+		"/home/personal/Documents/java-time/main.cpp",
+		"/home/personal/CS_215_homework2/q7.m",
+		"/home/personal/Desktop/ganit/ganit_src/factorial_g.c",
+		"/home/personal/Desktop/ganit/ganit_src/isPrime_g.c",
+		"/home/personal/Desktop/ganit/Makefile",
+		"/home/personal/Desktop/ganit/README.md",
+		"/home/personal/Desktop/ganit/calc.y",
+		"/home/personal/Desktop/ganit/Extra Report",
+		"/home/personal/Desktop/libganit.a",
+		"/home/personal/Desktop/ganit/ganit.h",
+		"/home/personal/Desktop/ganit/calc.tab.c",
+		"/home/personal/Desktop/ganit/.gitignore",
+		"/home/personal/Desktop/ReadME",
+		"/home/personal/Desktop/ganit/calc",
+		"/home/personal/Desktop/ganit/calc.tab.h",
+		"/home/personal/Desktop/ganit/calc_utils.h",
+		"/home/personal/Desktop/ganit/ganit_src/ceil_g.c",
+		"/home/personal/Desktop/ganit/ganit_src/abs_g.c",
+		"/home/personal/Desktop/ganit/aib.c",
+		"/home/personal/Desktop/ganit/ganit_src/floor_g.c",
+		"/home/personal/Desktop/ganit/calc_utils.c",
+		"/home/personal/Downloads/ssl/Inlab7/Problem2/Makefile",
+		"/home/personal/Downloads/ssl/Inlab7/Problem2/main.cpp",
+		"/home/personal/Downloads/ssl/Inlab7/Problem2/hello.cpp",
+		"/home/personal/Downloads/ssl/Inlab7/Problem2/functions.h",
+		"/home/personal/Downloads/ssl/Inlab7/Problem2/factorial.cpp",
+		"/home/personal/Downloads/ssl/Inlab7/InLab7ProblemStatement.txt",
+		"/home/personal/Downloads/ssl/Inlab7/Problem1/server.cpp",
+		"/home/personal/Downloads/ssl/Inlab7/Problem1/README.txt",
+		"/home/personal/Downloads/ssl/Inlab7/Problem1/peerinfo.hpp",
+		"/home/personal/Downloads/ssl/Inlab7/Problem1/peer.cpp",
+		"/home/personal/Downloads/ssl/Inlab7/Problem1/Makefile",
+		"/home/personal/Documents/java-time/Employee.java",
+		"/home/personal/Documents/doc/Doxyfile",
+		"/home/personal/Downloads/ssl/Lab6/5.sh",
+		"/home/personal/Downloads/ssl/Lab6/5.plot",
+		"/home/personal/Downloads/215/econ159/__MACOSX/Game-Theory 2/contents/resources/._blackboard06.pdf",
+		"/home/personal/Downloads/215/econ159/__MACOSX/Game-Theory 2/contents/resources/._blackboard09.pdf",
+		"/home/personal/Downloads/215/econ159/__MACOSX/Game-Theory 2/contents/resources/._answers_to_final_exam_2005.pdf",
+		"/home/personal/Downloads/ssl/Lab6/sach.sh",
+		"/home/personal/Desktop/bfhsdfx",
+		"/home/personal/Desktop/README",
+		"/home/personal/Downloads/ssl/conference-presentation/presentation.tex",
+		"/home/personal/gnu_animate1.gp",
+		"/home/personal/gnu_animate2.gp",
+		"/home/personal/gnu_animate3.gp",
+		"/home/personal/gnu_try.plot",
+		"/home/personal/Desktop/aaa.tex",
+		"/home/personal/Downloads/ssl/SO_FAR_IN_SSL/lab5_160050022_160050042_160050071/Problem4/Problem4.java",
+		"/home/personal/Downloads/ssl/SO_FAR_IN_SSL/lab5_160050022_160050042_160050071/Problem1/Problem1.java",
+		"/home/personal/Downloads/ssl/SO_FAR_IN_SSL/lab5_160050022_160050042_160050071/Problem3/Problem3.java",
+		"/home/personal/Downloads/ssl/SO_FAR_IN_SSL/lab5_160050022_160050042_160050071/Problem2/Problem2.java",
+		"/home/personal/Downloads/ssl/SO_FAR_IN_SSL/Lab3_160050022_160050042_160050071/Problem3/testcase/output3",
+		"/home/personal/Downloads/ssl/SO_FAR_IN_SSL/Lab3_160050022_160050042_160050071/Problem3/testcase/input3",
+		"/home/personal/Downloads/ssl/SO_FAR_IN_SSL/Lab3_160050022_160050042_160050071/Problem3/script3.sed",
+		"/home/personal/Downloads/ssl/SO_FAR_IN_SSL/Lab3_160050022_160050042_160050071/Problem4/testcase/output42",
+		"/home/personal/Downloads/ssl/SO_FAR_IN_SSL/Lab3_160050022_160050042_160050071/Problem4/testcase/input42",
+		"/home/personal/Downloads/ssl/SO_FAR_IN_SSL/Lab3_160050022_160050042_160050071/Problem4/testcase/output41"
+	],
+	"find":
+	{
+		"height": 57.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"AUTH_USER",
+			"charge",
+			"submit",
+			"#card-element"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/profiles/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1419,
+								1419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 435.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/profiles/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 361.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "tryTen.sublime-project",
+	"replace":
+	{
+		"height": 73.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 481.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
